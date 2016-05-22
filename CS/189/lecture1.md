@@ -52,7 +52,7 @@ with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
 20%  Midterm:  Wednesday, March 16, in class (6:30-8 pm)
 
-20%  Final Exam:  Friday, May 13, 3-6 PM  (Exam group 19)
+40%  Final Exam:  Friday, May 13, 3-6 PM  (Exam group 19)
 
 ## Grading:  289A
 
